@@ -60,21 +60,6 @@ Una aplicación de comercio electrónico que introducirá conceptos más avanzad
 - Optional chaining
 - Implementación del carrito de compras
 
-### Módulo 6: Optimización y Mejores Prácticas
-- Control de versiones con Git
-- Debugging en JavaScript
-- Manejo de errores
-- Optimización de rendimiento
-- Deployment del proyecto
-- Mejores prácticas y patrones comunes
-
-## Metodología
-- Clases prácticas con código en vivo
-- Ejercicios guiados
-- Retos de programación
-- Revisión de código
-- Proyectos incrementales
-
 ## Requisitos Previos
 - Conocimientos básicos de HTML y CSS
 - Computadora con conexión a internet
